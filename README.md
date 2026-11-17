@@ -1,8 +1,8 @@
 # QDII ETF 隔夜联动决策系统
 
-> **这是旧版，已不再维护。** 后续版本是 [us-stock-insight](https://github.com/hhbgj/us-stock-insight)：从“预测明天涨跌”改成了“按规则判断现在处在什么位置”（买入线、卖出指标、纳指止盈），原因是事后核对发现，这类打分和之后的实际涨跌基本不相关。
+> **这是旧版，已不再维护。** 后续版本是 [us-stock-insight](https://github.com/jiatai-li/us-stock-insight)：从“预测明天涨跌”改成了“按规则判断现在处在什么位置”（买入线、卖出指标、纳指止盈），原因是事后核对发现，这类打分和之后的实际涨跌基本不相关。
 >
-> *Archived first version of [us-stock-insight](https://github.com/hhbgj/us-stock-insight): a local dashboard for China-listed QDII ETFs that tracks the overnight US market, VIX, A-share sentiment, ETF premiums and technicals, and combines them with DeepSeek analysis into a direction score and a buy-opportunity score.*
+> *Archived first version of [us-stock-insight](https://github.com/jiatai-li/us-stock-insight): a local dashboard for China-listed QDII ETFs that tracks the overnight US market, VIX, A-share sentiment, ETF premiums and technicals, and combines them with DeepSeek analysis into a direction score and a buy-opportunity score.*
 
 本项目是一个本地运行的 QDII ETF 每日决策系统，用于跟踪隔夜美股、A 股情绪、ETF 溢价、技术面和 AI 分析，辅助生成“方向预测”和“操作建议”。
 
